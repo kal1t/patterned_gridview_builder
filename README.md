@@ -1,7 +1,7 @@
-![Screenshot_1699511419](https://github.com/kal1t/patterned_gridview_builder/assets/143402227/849b7fb4-3c3c-4fba-9658-eb0e93aa4a96)# patterned_gridview_builder
 
+## introducing
 This is a patterned_grid. It creates elements in the widget's specific proportion pattern in a row. This is done to create a custom design where elements can be of various sizes
-## usage:
+## usage
 
 ```
 CustomPatternedGrid(
